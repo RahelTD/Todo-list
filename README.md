@@ -5,4 +5,4 @@ Simple app to make use of jQuery, HTML and CSS focusing on the JavaScript's keyw
 Assignment from the online course The Web Developer Bootcamp.
 
 # Website 
-Link to the Website https://raheltd.github.io/todo-list/
+Link to the Website
